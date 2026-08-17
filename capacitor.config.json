@@ -1,0 +1,7 @@
+{
+  "appId": "com.denizyildiz.alisverissokagi",
+  "appName": "Alışveriş Sokağı",
+  "webDir": "yayin",
+  "ios": { "contentInset": "never", "backgroundColor": "#141821" },
+  "android": { "backgroundColor": "#141821" }
+}
